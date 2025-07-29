@@ -1,6 +1,6 @@
 <!-- BANNER CON TU NOMBRE -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Juan+Carlos;Full+Stack+Developer+%F0%9F%9A%80;Apasionado+por+el+codigo+limpio+y+eficiente" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Juan+Carlos;Full+Stack+Developer+%F0%9F%9A%80;" alt="Typing SVG" />
 </p>
 
 ---
@@ -35,7 +35,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JCCRUZCHACON&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JCCRUZCHACON&show_icons=true&theme=tokyonight&hide_title=true" />
+  <img src="https://streak-stats.demolab.com/?user=JCCRUZCHACON&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCCRUZCHACON&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
