@@ -1,46 +1,64 @@
-<h1 align="center">¡Hola 👋, soy JC Cruz Chacón!</h1>
-<h3 align="center">Full Stack Developer | Apasionado por el código limpio y las soluciones eficientes</h3>
-
----
-
-💻 **Tech Stack Principal:**
-
+<!-- BANNER CON TU NOMBRE -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hola%2C+soy+JC+Cruz+Chac%C3%B3n;Full+Stack+Developer+%F0%9F%9A%80;Apasionado+por+el+c%C3%B3digo+limpio+%26+eficiente" alt="Typing SVG" />
 </p>
 
 ---
 
-🧠 **Sobre mí**
+### 🧠 Sobre mí
 
-- 💼 Desarrollador con experiencia en **frontend y backend**
-- 🌐 Enfocado en **React + Vite**, **Node.js**, **Express**, **Sequelize**, **PostgreSQL**
-- 🚀 Interesado en la nube (**Azure**, **Docker**, **DevOps**)
-- 📚 Siempre aprendiendo y buscando crecer como profesional
+- 👨‍💻 Desarrollador Full Stack con experiencia en frontend y backend
+- ⚙️ Especializado en **React, Node.js, TypeScript, PostgreSQL y Express**
+- 🚀 Apasionado por la tecnología, el aprendizaje constante y los proyectos con impacto
+- 🌎 Trabajo remoto y colaborativo con equipos distribuidos
+- 🛠️ Interesado en DevOps, arquitectura en la nube y buenas prácticas
 
 ---
 
-📊 **GitHub Stats**
+### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JCCRUZCHACON&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCCRUZCHACON&layout=compact&theme=radical" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,postgres,docker,git,github,linux,vite" />
 </p>
 
 ---
 
-📫 **Conectemos**
+### 📦 Proyectos Destacados
+
+| 💻 Proyecto | 🔗 Enlace | ⚙️ Tecnologías |
+|------------|----------|----------------|
+| Gestor de Tareas | [Ver Repo](https://github.com/JCCRUZCHACON/todo-app) | React, Node.js, Express, PostgreSQL |
+| API REST Boilerplate | [Ver Repo](https://github.com/JCCRUZCHACON/api-rest-node) | Node.js, Sequelize, JWT |
+| Auth App | [Ver Repo](https://github.com/JCCRUZCHACON/auth-jwt-app) | React, Node.js, JWT, PostgreSQL |
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <a href="mailto:tuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/tu_usuario/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/JCCRUZCHACON"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=JCCRUZCHACON&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=JCCRUZCHACON&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCCRUZCHACON&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+### 🎯 Objetivos 2024
+
+- 🧠 Profundizar en **Arquitectura de Microservicios**
+- ☁️ Dominar **Azure + Kubernetes**
+- ✅ Contribuir a proyectos open source
+- 🧪 Mejorar en **testing con Jest, Mocha y Cypress**
+
+---
+
+### 📫 Conectemos
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/juan-carlos-c-508b2081/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/JCCRUZCHACON"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+  
+
 
