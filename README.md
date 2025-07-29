@@ -1,6 +1,6 @@
 <!-- BANNER CON TU NOMBRE -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hola%2C+soy+JC+Cruz+Chac%C3%B3n;Full+Stack+Developer+%F0%9F%9A%80;Apasionado+por+el+c%C3%B3digo+limpio+%26+eficiente" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Juan+Carlos;Full+Stack+Developer+%F0%9F%9A%80;Apasionado+por+el+c%C3%B3digo+limpio+%26+eficiente" alt="Typing SVG" />
 </p>
 
 ---
@@ -27,9 +27,8 @@
 
 | 💻 Proyecto | 🔗 Enlace | ⚙️ Tecnologías |
 |------------|----------|----------------|
-| Gestor de Tareas | [Ver Repo](https://github.com/JCCRUZCHACON/todo-app) | React, Node.js, Express, PostgreSQL |
-| API REST Boilerplate | [Ver Repo](https://github.com/JCCRUZCHACON/api-rest-node) | Node.js, Sequelize, JWT |
-| Auth App | [Ver Repo](https://github.com/JCCRUZCHACON/auth-jwt-app) | React, Node.js, JWT, PostgreSQL |
+| Hotel Reservations | [Ver Repo](https://github.com/JCCRUZCHACON/Booking-Front-Hotel) | React vite, redux toolkit, tailwind  |
+| Stories Streaming | [Ver Repo](https://github.com/JCCRUZCHACON/STORIES-STREAMING-APP-FRONTEND) | React vite, redux toolkit, tailwind |
 
 ---
 
@@ -39,6 +38,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JCCRUZCHACON&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com/?user=JCCRUZCHACON&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCCRUZCHACON&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JCCRUZCHACON&style=flat-square&color=blue" alt="Visitas al perfil" />
 </p>
 
 ---
