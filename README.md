@@ -1,6 +1,6 @@
 <!-- BANNER CON TU NOMBRE -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Juan+Carlos;Full+Stack+Developer+%F0%9F%9A%80;Apasionado+por+el+c%C3%B3digo+limpio+%26+eficiente" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Juan+Carlos;Full+Stack+Developer+%F0%9F%9A%80;Apasionado+por+el+codigo+limpio+y+eficiente" alt="Typing SVG" />
 </p>
 
 ---
@@ -8,7 +8,7 @@
 ### 🧠 Sobre mí
 
 - 👨‍💻 Desarrollador Full Stack con experiencia en frontend y backend
-- ⚙️ Especializado en **React, Node.js, TypeScript, PostgreSQL y Express**
+- ⚙️ Especializado en **React, CSS, Tailwind, Redux Toolkit, Node.js, TypeScript, Sequleize, PostgreSQL y Express**
 - 🚀 Apasionado por la tecnología, el aprendizaje constante y los proyectos con impacto
 - 🌎 Trabajo remoto y colaborativo con equipos distribuidos
 - 🛠️ Interesado en DevOps, arquitectura en la nube y buenas prácticas
@@ -36,7 +36,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JCCRUZCHACON&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com/?user=JCCRUZCHACON&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCCRUZCHACON&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
