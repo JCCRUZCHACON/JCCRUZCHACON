@@ -1,3 +1,12 @@
+```bash
+     _      _____  _____ _   _  _____ _____ _    _ 
+    | |    |_   _|/ ____| \ | |/ ____|_   _| |  | |
+    | |      | | | |    |  \| | (___   | | | |__| |
+    | |      | | | |    | . ` |\___ \  | | |  __  |
+    | |____ _| |_| |____| |\  |____) |_| |_| |  | |
+    |______|_____\_____|_| \_|_____/|_____|_|  |_|                                              
+
+
 <h1 align="center">¡Hola 👋, soy JC Cruz Chacón!</h1>
 <h3 align="center">Full Stack Developer | Apasionado por el código limpio y las soluciones eficientes</h3>
 
