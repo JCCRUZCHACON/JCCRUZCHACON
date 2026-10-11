@@ -1,17 +1,13 @@
 <!-- BANNER CON TU NOMBRE -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Juan+Carlos;Full+Stack+Developer+%F0%9F%9A%80;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Charly;Full+Stack+Developer+%F0%9F%9A%80;" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 Sobre mí
 
-- 👨‍💻 Desarrollador Full Stack con experiencia en frontend y backend
-- ⚙️ Especializado en **React, CSS, Tailwind, Redux Toolkit, Node.js, TypeScript, Sequleize, PostgreSQL y Express**
-- 🚀 Apasionado por la tecnología, el aprendizaje constante y los proyectos con impacto
-- 🌎 Trabajo remoto y colaborativo con equipos distribuidos
-- 🛠️ Interesado en DevOps, arquitectura en la nube y buenas prácticas
+I build scalable REST APIs, microservices and serverless architectures. Focused on high availability, secure auth with JWT HttpOnly, and zero-downtime deployments on AWS (EC2, RDS, Lambda, SQS/SNS, CloudWatch).
 
 ---
 
