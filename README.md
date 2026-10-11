@@ -37,7 +37,7 @@ I build scalable REST APIs, microservices and serverless architectures. Focused 
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Charly-Cr&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Charly-Cr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
