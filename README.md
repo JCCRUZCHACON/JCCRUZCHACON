@@ -5,7 +5,7 @@
 
 ---
 
-### 🧠 Sobre mí
+### 🧠 About me
 
 I build scalable REST APIs, microservices and serverless architectures. Focused on high availability, secure auth with JWT HttpOnly, and zero-downtime deployments on AWS (EC2, RDS, Lambda, SQS/SNS, CloudWatch).
 
@@ -19,7 +19,7 @@ I build scalable REST APIs, microservices and serverless architectures. Focused 
 
 ---
 
-### 📦 Proyectos Destacados
+### 📦 Featured Projects
 
 | 💻 Proyecto | 🔗 Enlace | ⚙️ Tecnologías |
 |------------|----------|----------------|
@@ -42,16 +42,16 @@ I build scalable REST APIs, microservices and serverless architectures. Focused 
 
 ---
 
-### 🎯 Objetivos 2024
+### 🎯 2026 Objectives
 
-- 🧠 Profundizar en **Arquitectura de Microservicios**
-- ☁️ Dominar **Azure + Kubernetes**
-- ✅ Contribuir a proyectos open source
-- 🧪 Mejorar en **testing con Jest, Mocha y Cypress**
+Deepen knowledge of **Microservices Architecture**
+Master **Azure + Kubernetes**
+Contribute to open-source projects
+Improve **testing skills with Jest, Mocha, and Cypress**
 
 ---
 
-### 📫 Conectemos
+### 📫 Let's connect
 
 <p align="center">
   <a href="https://github.com/JCCRUZCHACON"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
