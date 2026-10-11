@@ -1,6 +1,6 @@
 <!-- BANNER CON TU NOMBRE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I´m+Charly%3BBackend+Developer+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Charly%3BBackend+Developer+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
