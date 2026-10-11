@@ -14,7 +14,7 @@ I build scalable REST APIs, microservices and serverless architectures. Focused 
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,postgres,docker,git,github,linux,vite" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,postgres,redis,docker,aws,linux,git,githubactions" />
 </p>
 
 ---
