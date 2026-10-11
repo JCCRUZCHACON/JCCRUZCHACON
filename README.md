@@ -23,40 +23,37 @@ I build scalable REST APIs, microservices and serverless architectures. Focused 
 
 | 💻 Project | 🔗 Link | ⚙ Tech Stack | 📝 Description |
 |---|---|---|---|
-| Garment Production System API | [View Repo](https://github.com/Charly-Cr/BACKEND-SISTEMA-CONFECCION) | Node.js, Express, PostgreSQL, JWT, Cookie HttpOnly  | Backend for garment manufacturing automation: production orders, cutting/batching workflows, payroll calculation, inventory control and role-based reporting. Designed for high concurrency and data integrity. |
-| Real-Time Medical Platform API | [View Repo](https://github.com/Charly-Cr/APP-DOCTOR-BACKEND) | Node.js, Express, PostgreSQL, JWT, Cookie HttpOnly | Real-time backend for doctor-patient interaction: appointment scheduling, live chat/consultations, medical history management and secure file storage. |
+| Garment Production System API | [View Repo](https://github.com/Charly-Cr/BACKEND-SISTEMA-CONFECCION) | NestJS, TypeScript, PostgreSQL, TypeORM, Redis, Docker | Backend for garment manufacturing automation: production orders, cutting/batching workflows, payroll calculation and inventory control. Designed for high concurrency and data integrity. |
+| Real-Time Medical Platform API | [View Repo](https://github.com/Charly-Cr/APP-DOCTOR-BACKEND) | NestJS, PostgreSQL, Redis, Socket.io, AWS S3 | Real-time backend for doctor-patient interaction: appointment scheduling, live chat, medical history and secure file storage. Low-latency architecture with WebSockets. |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JCCRUZCHACON&show_icons=true&theme=tokyonight&hide_title=true" />
-  <img src="https://streak-stats.demolab.com/?user=JCCRUZCHACON&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCCRUZCHACON&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Charly-Cr&show_icons=true&theme=tokyonight&hide_title=true" />
+  <img src="https://streak-stats.demolab.com/?user=Charly-Cr&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charly-Cr&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JCCRUZCHACON&style=flat-square&color=blue" alt="Visitas al perfil" />
+  <img src="https://komarev.com/ghpvc/?username=Charly-Cr&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
 ---
 
 ### 🎯 2026 Objectives
 
-Deepen knowledge of **Microservices Architecture**
-Master **Azure + Kubernetes**
-Contribute to open-source projects
-Improve **testing skills with Jest, Mocha, and Cypress**
+- Deepen **Microservices Architecture** with NestJS
+- Master **AWS + Kubernetes (EKS)**
+- Contribute to open-source
+- Improve testing with **Jest & Supertest**
 
 ---
 
 ### 📫 Let's connect
 
 <p align="center">
-  <a href="https://github.com/JCCRUZCHACON"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/Charly-Cr"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-
-  
-
-
