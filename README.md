@@ -21,10 +21,10 @@ I build scalable REST APIs, microservices and serverless architectures. Focused 
 
 ### 📦 Featured Projects
 
-| 💻 Proyecto | 🔗 Enlace | ⚙️ Tecnologías |
-|------------|----------|----------------|
-| Hotel Reservations | [Ver Repo](https://github.com/Charly-Cr/BACKEND-SISTEMA-CONFECCION) | React vite, redux toolkit, tailwind  |
-| Stories Streaming | [Ver Repo](https://github.com/Charly-Cr/APP-DOCTOR-BACKEND) | React vite, redux toolkit, tailwind |
+| 💻 Project | 🔗 Link | ⚙ Tech Stack | 📝 Description |
+|---|---|---|---|
+| Garment System API | [View Repo](https://github.com/Charly-Cr/BACKEND-SISTEMA-CONFECCION) | Node.js, Express, PostgreSQL, JWT | REST API for manufacturing management, auth with HttpOnly cookies, role-based access |
+| Medical App API | [View Repo](https://github.com/Charly-Cr/APP-DOCTOR-BACKEND) | Node.js, Express, PostgreSQL, JWT | Backend for medical appointments, auth with HttpOnly cookies, role-based access | |
 
 ---
 
