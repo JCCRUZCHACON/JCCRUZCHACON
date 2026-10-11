@@ -23,8 +23,8 @@ I build scalable REST APIs, microservices and serverless architectures. Focused 
 
 | 💻 Project | 🔗 Link | ⚙ Tech Stack | 📝 Description |
 |---|---|---|---|
-| Garment Production System API | [View Repo](https://github.com/Charly-Cr/BACKEND-SISTEMA-CONFECCION) | Node.js, NestJS, TypeScript, PostgreSQL, TypeORM, JWT, Docker | Backend for garment manufacturing automation: production orders, cutting/batching workflows, payroll calculation, inventory control and role-based reporting. Designed for high concurrency and data integrity. |
-| Real-Time Medical Platform API | [View Repo](https://github.com/Charly-Cr/APP-DOCTOR-BACKEND) | Node.js, NestJS, PostgreSQL, Redis, WebSockets / Socket.io, AWS S3 | Real-time backend for doctor-patient interaction: appointment scheduling, live chat/consultations, medical history management and secure file storage. Low-latency architecture with WebSockets and Redis. |
+| Garment Production System API | [View Repo](https://github.com/Charly-Cr/BACKEND-SISTEMA-CONFECCION) | Node.js, Express, PostgreSQL, JWT, Cookie HttpOnly  | Backend for garment manufacturing automation: production orders, cutting/batching workflows, payroll calculation, inventory control and role-based reporting. Designed for high concurrency and data integrity. |
+| Real-Time Medical Platform API | [View Repo](https://github.com/Charly-Cr/APP-DOCTOR-BACKEND) | Node.js, Express, PostgreSQL, JWT, Cookie HttpOnly | Real-time backend for doctor-patient interaction: appointment scheduling, live chat/consultations, medical history management and secure file storage. |
 
 ---
 
