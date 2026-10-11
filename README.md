@@ -23,8 +23,8 @@ I build scalable REST APIs, microservices and serverless architectures. Focused 
 
 | 💻 Proyecto | 🔗 Enlace | ⚙️ Tecnologías |
 |------------|----------|----------------|
-| Hotel Reservations | [Ver Repo](https://github.com/JCCRUZCHACON/Booking-Front-Hotel) | React vite, redux toolkit, tailwind  |
-| Stories Streaming | [Ver Repo](https://github.com/JCCRUZCHACON/STORIES-STREAMING-APP-FRONTEND) | React vite, redux toolkit, tailwind |
+| Hotel Reservations | [Ver Repo](https://github.com/Charly-Cr/BACKEND-SISTEMA-CONFECCION) | React vite, redux toolkit, tailwind  |
+| Stories Streaming | [Ver Repo](https://github.com/Charly-Cr/APP-DOCTOR-BACKEND) | React vite, redux toolkit, tailwind |
 
 ---
 
